@@ -2,6 +2,7 @@
 def main():
     fizzFlag = 0
     buzzFlag = 0
+    
     fizzBuzzFlag = 0
     for num in range(1,101):
         if num % 3 == 0 :

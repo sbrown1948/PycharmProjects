@@ -25,6 +25,7 @@ def pascals_triangle(n_rows):
                 row.append(mysum)
 
 
+
             # finally append the final 1 to the outside
             row.append(1)
             # print myzip
